@@ -6,6 +6,7 @@ public class helloclass {
 
 		System.out.println("I am pritam");
 		System.out.println("I am Shreya");
+		System.out.println("Thank you...");
 	}
 
 }
